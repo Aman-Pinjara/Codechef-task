@@ -1,5 +1,20 @@
 # task
 
+I did my best in this Task
+
+I have added some animation aswell like the "Welcome back" heading and the subheading come down from the top and fad-in
+
+There are some functional things like:
+  when u are in the email fiels and click the button on the bottom right on keyboard it will auto focus the password field
+  
+  the show buttom in password field works aswell
+  
+  
+
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/85558032/182558225-281d5e69-d5b0-4ec9-97ee-ca630867e425.png">
+
+
+
 A new Flutter project.
 
 ## Getting Started
