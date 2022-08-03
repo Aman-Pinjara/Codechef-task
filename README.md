@@ -2,7 +2,7 @@
 
 I have added some animation aswell like the "Welcome back" heading and the subheading come down from the top and fad-in
 
-There are some functional things like:\n
+There are some functional things like:
   when u are in the email fiels and click the button on the bottom right on keyboard it will auto focus the password field
   
   the show buttom in password field works aswell
